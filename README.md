@@ -31,8 +31,8 @@ The dashboard allows users to explore the data interactively through a sidebar s
 ---
 ## 📂 Project Structure
 ```
-📂 covid-dashboard
-│── app.py                  # Main application file
+📂 covid-analysis
+│── covid.py                  # Main application file
 │── requirements.txt        # Dependencies required to run the project
 │── README.md               # Project documentation
 ```
@@ -41,8 +41,8 @@ The dashboard allows users to explore the data interactively through a sidebar s
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/covid-dashboard.git
- cd covid-dashboard
+ git clone https://github.com/your-username/covid-analysis.git
+ cd covid-analysis
 ```
 ### 2️⃣ Create and Activate a Virtual Environment (Optional but Recommended)
 ```sh
