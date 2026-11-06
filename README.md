@@ -41,7 +41,7 @@ The dashboard allows users to explore the data interactively through a sidebar s
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/covid-analysis.git
+ git clone https://github.com/Medamineelkhattabi/covid-analysis.git
  cd covid-analysis
 ```
 ### 2️⃣ Create and Activate a Virtual Environment (Optional but Recommended)
